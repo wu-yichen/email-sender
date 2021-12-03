@@ -4,7 +4,7 @@ from string import Template
 from email.message import EmailMessage
 
 email = EmailMessage()
-email['from'] = 'yichen'
+email['from'] = 'what?'
 email['to'] = '@gmail.com'
 email['subject'] = 'love letter'
 
